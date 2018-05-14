@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coleman R. Harris on Coleman R. Harris</title>
+    <link>http://colemanrharris.me/</link>
+    <description>Recent content in Coleman R. Harris on Coleman R. Harris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Re: Human papillomavirus vaccine initiation in Asian Indians and Asian subpopulations: a case for examining disaggregated data in public health research</title>
+      <link>http://colemanrharris.me/publication/shing-letter-hpv/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 -0600</pubDate>
+      
+      <guid>http://colemanrharris.me/publication/shing-letter-hpv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing of NO 2 with zirconium hydroxide via frequency-dependent electrical impedance spectroscopy</title>
+      <link>http://colemanrharris.me/publication/harris-no2-zirc_hydrox/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://colemanrharris.me/publication/harris-no2-zirc_hydrox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Campaign Data Consulting</title>
+      <link>http://colemanrharris.me/project/campaign/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://colemanrharris.me/project/campaign/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Data Consultant&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wade Munday for Tennessee Senate, District 25&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;08/2017 &amp;mdash; Present&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Utilized R and Shiny to develop interactive &lt;a href=&#34;https://colemanrharris.shinyapps.io/District-25/&#34; target=&#34;_blank&#34;&gt;map&lt;/a&gt; to explore Senate District 25&lt;/li&gt;
+&lt;li&gt;Provided rough predictive analysis to support campaign efforts&lt;/li&gt;
+&lt;li&gt;Produced high-quality &lt;a href=&#34;https://drive.google.com/file/d/1heOKrmcfiZx2pzFnL0KSwTRAHOoARu5P/view&#34; target=&#34;_blank&#34;&gt;infographics&lt;/a&gt; of campaign finances&lt;/li&gt;
+&lt;li&gt;Want to see my code? Go check out my &lt;a href=&#34;https://github.com/ColemanRHarris/District-25&#34; target=&#34;_blank&#34;&gt;Github repository&lt;/a&gt; for this project!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Other campaigns will be updated as time allows.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oral Fluid Stability Study</title>
+      <link>http://colemanrharris.me/project/aegis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://colemanrharris.me/project/aegis/</guid>
+      <description>&lt;p&gt;We organized a month-long stability study to observe over 40 different drug analytes of relevance and their associated stability in different temperature conditions.&lt;/p&gt;
+
+&lt;p&gt;The stability study is now used internally at &lt;a href=&#34;http://www.aegislabs.com&#34; target=&#34;_blank&#34;&gt;Aegis Sciences&lt;/a&gt; to validate oral fluid forensic processes, and was designed as a benchmark the stability of drug analytes in the oral fluid matrix. One can find the associated presentation &lt;a href=&#34;https://drive.google.com/file/d/15jV_GTnBEl57fWE6GwHnlaHJ4xu1duOy/view&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, which I gave at the 2017 SERMACS conference in Charlotte, NC.&lt;/p&gt;
+
+&lt;p&gt;I also developed a Shiny application with R to explore study results and download data, which one can find &lt;a href=&#34;https://colemanrharris.shinyapps.io/aegis-data-shiny/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. I organized results into a written manuscript, to be submitted to an academic journal following internal review.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Coleman R. Harris</title>
+    <link>http://colemanrharris.me/publication/</link>
+    <description>Recent content in Publications on Coleman R. Harris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="http://colemanrharris.me/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Re: Human papillomavirus vaccine initiation in Asian Indians and Asian subpopulations: a case for examining disaggregated data in public health research</title>
+      <link>http://colemanrharris.me/publication/shing-letter-hpv/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 -0600</pubDate>
+      
+      <guid>http://colemanrharris.me/publication/shing-letter-hpv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing of NO 2 with zirconium hydroxide via frequency-dependent electrical impedance spectroscopy</title>
+      <link>http://colemanrharris.me/publication/harris-no2-zirc_hydrox/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://colemanrharris.me/publication/harris-no2-zirc_hydrox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Coleman R. Harris</title>
+    <link>http://colemanrharris.me/home/</link>
+    <description>Recent content in Homes on Coleman R. Harris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://colemanrharris.me/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coleman R. Harris</title>
+      <link>http://colemanrharris.me/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://colemanrharris.me/home/hero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://colemanrharris.me/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://colemanrharris.me/home/about/</guid>
+      <description>Biography Hello and welcome to my website! I am currently a PhD student in the Department of Biostatistics at Vanderbilt University. I graduated from the University of Alabama in 2017 with a BS in Mathematical Statistics &amp;amp; a minor in Biology.
+My research interests lie at the intersection of statistics, health policy, and data science. Currently, I aim to increase my knowledge of clinical &amp;amp; health data, &amp;ldquo;big data&amp;rdquo; computation methods, and biomedical data privacy to explore &amp;ldquo;big&amp;rdquo; federal datasets (e.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>http://colemanrharris.me/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://colemanrharris.me/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://colemanrharris.me/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://colemanrharris.me/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://colemanrharris.me/home/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://colemanrharris.me/home/cv/</guid>
+      <description>Find it here.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://colemanrharris.me/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://colemanrharris.me/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Coleman R. Harris</title>
+    <link>http://colemanrharris.me/project/</link>
+    <description>Recent content in Projects on Coleman R. Harris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://colemanrharris.me/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Campaign Data Consulting</title>
+      <link>http://colemanrharris.me/project/campaign/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://colemanrharris.me/project/campaign/</guid>
+      <description>Data Consultant
+Wade Munday for Tennessee Senate, District 25
+08/2017 &amp;mdash; Present
+ Utilized R and Shiny to develop interactive map to explore Senate District 25 Provided rough predictive analysis to support campaign efforts Produced high-quality infographics of campaign finances Want to see my code? Go check out my Github repository for this project!  Other campaigns will be updated as time allows.</description>
+    </item>
+    
+    <item>
+      <title>Oral Fluid Stability Study</title>
+      <link>http://colemanrharris.me/project/aegis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://colemanrharris.me/project/aegis/</guid>
+      <description>We organized a month-long stability study to observe over 40 different drug analytes of relevance and their associated stability in different temperature conditions.
+The stability study is now used internally at Aegis Sciences to validate oral fluid forensic processes, and was designed as a benchmark the stability of drug analytes in the oral fluid matrix. One can find the associated presentation here, which I gave at the 2017 SERMACS conference in Charlotte, NC.</description>
+    </item>
+    
+  </channel>
+</rss>
