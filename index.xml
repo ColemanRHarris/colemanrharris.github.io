@@ -29,12 +29,37 @@
     </item>
     
     <item>
-      <title>Campaign Data Consulting</title>
+      <title>Oral Fluid Stability Study</title>
+      <link>http://colemanrharris.me/project/aegis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://colemanrharris.me/project/aegis/</guid>
+      <description>&lt;p&gt;We organized a month-long stability study to observe over 40 different drug analytes of relevance and their associated stability in different temperature conditions.&lt;/p&gt;
+
+&lt;p&gt;The stability study is now used internally at &lt;a href=&#34;http://www.aegislabs.com&#34; target=&#34;_blank&#34;&gt;Aegis Sciences&lt;/a&gt; to validate oral fluid forensic processes, and was designed as a benchmark the stability of drug analytes in the oral fluid matrix. One can find the associated presentation &lt;a href=&#34;https://drive.google.com/file/d/15jV_GTnBEl57fWE6GwHnlaHJ4xu1duOy/view&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, which I gave at the 2017 SERMACS conference in Charlotte, NC.&lt;/p&gt;
+
+&lt;p&gt;I also developed a Shiny application with R to explore study results and download data, which one can find &lt;a href=&#34;https://colemanrharris.shinyapps.io/aegis-data-shiny/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. I organized results into a written manuscript, to be submitted to an academic journal following internal review.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Political Campaign Consulting</title>
       <link>http://colemanrharris.me/project/campaign/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>http://colemanrharris.me/project/campaign/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Data Consultant&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;h1&gt;Skills&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Strong &lt;strong&gt;data &amp;amp; statistical analysis&lt;/strong&gt; to support Field, Research, and Communications efforts&lt;/li&gt;
+&lt;li&gt;Excellent &lt;strong&gt;communication skills&lt;/strong&gt; to convey ideas to the team and to voters&lt;/li&gt;
+&lt;li&gt;Adaptable &lt;strong&gt;programming experience&lt;/strong&gt; to develop applications and models across the campaign&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Policy and research expertise&lt;/strong&gt; to advise and craft candidates&amp;rsquo; policy positions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hard-working &amp;amp; fast learner&lt;/strong&gt; to succeed in any campaign environment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;h1&gt; Experience&lt;/h1&gt;
+&lt;strong&gt;Data, Policy, and Research Consultant&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Wade Munday for Tennessee Senate, TN - 25&lt;/strong&gt;&lt;/p&gt;
 
@@ -44,8 +69,10 @@
 &lt;li&gt;Utilized R and Shiny to develop interactive &lt;a href=&#34;https://colemanrharris.shinyapps.io/District-25/&#34; target=&#34;_blank&#34;&gt;map&lt;/a&gt; to explore Senate District 25&lt;/li&gt;
 &lt;li&gt;Provided rough predictive analysis to support campaign efforts&lt;/li&gt;
 &lt;li&gt;Produced high-quality &lt;a href=&#34;https://drive.google.com/file/d/1heOKrmcfiZx2pzFnL0KSwTRAHOoARu5P/view&#34; target=&#34;_blank&#34;&gt;infographics&lt;/a&gt; of campaign finances&lt;/li&gt;
-&lt;li&gt;Want to see my code? Go check out my &lt;a href=&#34;https://github.com/ColemanRHarris/District-25&#34; target=&#34;_blank&#34;&gt;Github repository&lt;/a&gt; for this project!&lt;/li&gt;
+&lt;li&gt;Researched and advised on campaign policy positions for &lt;strong&gt;Health&lt;/strong&gt; and &lt;strong&gt;Environmental&lt;/strong&gt; issues&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Want to see my code? Go check out my &lt;a href=&#34;https://github.com/ColemanRHarris/District-25&#34; target=&#34;_blank&#34;&gt;Github repository&lt;/a&gt; for this project!&lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -64,20 +91,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;Other campaigns will be updated as time allows.&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Oral Fluid Stability Study</title>
-      <link>http://colemanrharris.me/project/aegis/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>http://colemanrharris.me/project/aegis/</guid>
-      <description>&lt;p&gt;We organized a month-long stability study to observe over 40 different drug analytes of relevance and their associated stability in different temperature conditions.&lt;/p&gt;
-
-&lt;p&gt;The stability study is now used internally at &lt;a href=&#34;http://www.aegislabs.com&#34; target=&#34;_blank&#34;&gt;Aegis Sciences&lt;/a&gt; to validate oral fluid forensic processes, and was designed as a benchmark the stability of drug analytes in the oral fluid matrix. One can find the associated presentation &lt;a href=&#34;https://drive.google.com/file/d/15jV_GTnBEl57fWE6GwHnlaHJ4xu1duOy/view&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, which I gave at the 2017 SERMACS conference in Charlotte, NC.&lt;/p&gt;
-
-&lt;p&gt;I also developed a Shiny application with R to explore study results and download data, which one can find &lt;a href=&#34;https://colemanrharris.shinyapps.io/aegis-data-shiny/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. I organized results into a written manuscript, to be submitted to an academic journal following internal review.&lt;/p&gt;
 </description>
     </item>
     
