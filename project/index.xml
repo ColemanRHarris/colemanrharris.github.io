@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Distance Matrix Anonymization Project</title>
+      <link>http://colemanrharris.me/project/geo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://colemanrharris.me/project/geo/</guid>
+      <description>I utilized the Lipschitz embedding method implemented by Kroll &amp;amp; Schnell in this paper to explore distance matrix anonymization myself. This included replicating some results from their paper, as well as applying it to a new dataset to explore its robustness when used alongside statistical analysis methods. Please explore the following analysis summaries if you&amp;rsquo;re interested in learning more:
+ Project poster (Presented at the Vanderbilt Data Science Institute Symposium, April 2019) Poster analysis supplement Report detailing analysis results  </description>
+    </item>
+    
+    <item>
       <title>Oral Fluid Stability Study</title>
       <link>http://colemanrharris.me/project/aegis/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
